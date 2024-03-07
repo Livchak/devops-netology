@@ -8,3 +8,4 @@ first line
     заканчивающиеся на _override.tf или _override.tf.json
     5) игнорирует файлы конфигурации командной строки .terraformrc и terraform.rc
 one more line
+and one more line
