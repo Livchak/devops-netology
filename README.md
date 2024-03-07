@@ -7,3 +7,4 @@ first line
     4) игнорирует файлы с расширением .tfvars и .tfvars.json а так же override.tf и override.tf.json так же 
     заканчивающиеся на _override.tf или _override.tf.json
     5) игнорирует файлы конфигурации командной строки .terraformrc и terraform.rc
+one more line
