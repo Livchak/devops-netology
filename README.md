@@ -9,3 +9,4 @@ first line
     5) игнорирует файлы конфигурации командной строки .terraformrc и terraform.rc
 one more line
 and one more line
+and second one line
